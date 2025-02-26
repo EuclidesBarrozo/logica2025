@@ -1,0 +1,10 @@
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\investimento\investimento\bin\Debug\investimento.exe.config
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\investimento\investimento\bin\Debug\investimento.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\investimento\investimento\bin\Debug\investimento.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\investimento\investimento\obj\Debug\investimento.csproj.AssemblyReference.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\investimento\investimento\obj\Debug\investimento.Form1.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\investimento\investimento\obj\Debug\investimento.Properties.Resources.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\investimento\investimento\obj\Debug\investimento.csproj.GenerateResource.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\investimento\investimento\obj\Debug\investimento.csproj.CoreCompileInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\investimento\investimento\obj\Debug\investimento.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\investimento\investimento\obj\Debug\investimento.pdb

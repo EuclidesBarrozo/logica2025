@@ -1,0 +1,10 @@
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\emprestimo\emprestimo\bin\Debug\emprestimo.exe.config
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\emprestimo\emprestimo\bin\Debug\emprestimo.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\emprestimo\emprestimo\bin\Debug\emprestimo.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\emprestimo\emprestimo\obj\Debug\emprestimo.csproj.AssemblyReference.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\emprestimo\emprestimo\obj\Debug\emprestimo.Form1.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\emprestimo\emprestimo\obj\Debug\emprestimo.Properties.Resources.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\emprestimo\emprestimo\obj\Debug\emprestimo.csproj.GenerateResource.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\emprestimo\emprestimo\obj\Debug\emprestimo.csproj.CoreCompileInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\emprestimo\emprestimo\obj\Debug\emprestimo.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\emprestimo\emprestimo\obj\Debug\emprestimo.pdb

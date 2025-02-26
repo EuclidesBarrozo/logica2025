@@ -1,0 +1,10 @@
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\notas\notas\bin\Debug\notas.exe.config
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\notas\notas\bin\Debug\notas.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\notas\notas\bin\Debug\notas.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\notas\notas\obj\Debug\notas.csproj.AssemblyReference.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\notas\notas\obj\Debug\notas.Form1.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\notas\notas\obj\Debug\notas.Properties.Resources.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\notas\notas\obj\Debug\notas.csproj.GenerateResource.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\notas\notas\obj\Debug\notas.csproj.CoreCompileInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\notas\notas\obj\Debug\notas.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\notas\notas\obj\Debug\notas.pdb

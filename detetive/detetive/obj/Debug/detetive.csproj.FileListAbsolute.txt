@@ -1,0 +1,10 @@
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\detetive\detetive\bin\Debug\detetive.exe.config
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\detetive\detetive\bin\Debug\detetive.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\detetive\detetive\bin\Debug\detetive.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\detetive\detetive\obj\Debug\detetive.csproj.AssemblyReference.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\detetive\detetive\obj\Debug\detetive.Form1.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\detetive\detetive\obj\Debug\detetive.Properties.Resources.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\detetive\detetive\obj\Debug\detetive.csproj.GenerateResource.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\detetive\detetive\obj\Debug\detetive.csproj.CoreCompileInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\detetive\detetive\obj\Debug\detetive.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\detetive\detetive\obj\Debug\detetive.pdb

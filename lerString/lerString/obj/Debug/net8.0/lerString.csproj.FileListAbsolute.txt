@@ -1,0 +1,14 @@
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\lerString\lerString\bin\Debug\net8.0\lerString.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\lerString\lerString\bin\Debug\net8.0\lerString.deps.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\lerString\lerString\bin\Debug\net8.0\lerString.runtimeconfig.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\lerString\lerString\bin\Debug\net8.0\lerString.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\lerString\lerString\bin\Debug\net8.0\lerString.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\lerString\lerString\obj\Debug\net8.0\lerString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\lerString\lerString\obj\Debug\net8.0\lerString.AssemblyInfoInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\lerString\lerString\obj\Debug\net8.0\lerString.AssemblyInfo.cs
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\lerString\lerString\obj\Debug\net8.0\lerString.csproj.CoreCompileInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\lerString\lerString\obj\Debug\net8.0\lerString.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\lerString\lerString\obj\Debug\net8.0\refint\lerString.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\lerString\lerString\obj\Debug\net8.0\lerString.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\lerString\lerString\obj\Debug\net8.0\lerString.genruntimeconfig.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\lerString\lerString\obj\Debug\net8.0\ref\lerString.dll

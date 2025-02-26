@@ -1,0 +1,10 @@
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\AnaliseClima\AnaliseClima\bin\Debug\AnaliseClima.exe.config
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\AnaliseClima\AnaliseClima\bin\Debug\AnaliseClima.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\AnaliseClima\AnaliseClima\bin\Debug\AnaliseClima.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\AnaliseClima\AnaliseClima\obj\Debug\AnaliseClima.csproj.AssemblyReference.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\AnaliseClima\AnaliseClima\obj\Debug\AnaliseClima.Form1.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\AnaliseClima\AnaliseClima\obj\Debug\AnaliseClima.Properties.Resources.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\AnaliseClima\AnaliseClima\obj\Debug\AnaliseClima.csproj.GenerateResource.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\AnaliseClima\AnaliseClima\obj\Debug\AnaliseClima.csproj.CoreCompileInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\AnaliseClima\AnaliseClima\obj\Debug\AnaliseClima.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\AnaliseClima\AnaliseClima\obj\Debug\AnaliseClima.pdb
