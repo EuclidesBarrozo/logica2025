@@ -1,0 +1,10 @@
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\jurosSimples\jurosSimples\bin\Debug\jurosSimples.exe.config
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\jurosSimples\jurosSimples\bin\Debug\jurosSimples.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\jurosSimples\jurosSimples\bin\Debug\jurosSimples.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\jurosSimples\jurosSimples\obj\Debug\jurosSimples.csproj.AssemblyReference.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\jurosSimples\jurosSimples\obj\Debug\jurosSimples.Form1.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\jurosSimples\jurosSimples\obj\Debug\jurosSimples.Properties.Resources.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\jurosSimples\jurosSimples\obj\Debug\jurosSimples.csproj.GenerateResource.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\jurosSimples\jurosSimples\obj\Debug\jurosSimples.csproj.CoreCompileInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\jurosSimples\jurosSimples\obj\Debug\jurosSimples.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\jurosSimples\jurosSimples\obj\Debug\jurosSimples.pdb

@@ -1,0 +1,14 @@
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria2\geometria2\bin\Debug\net8.0\geometria2.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria2\geometria2\bin\Debug\net8.0\geometria2.deps.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria2\geometria2\bin\Debug\net8.0\geometria2.runtimeconfig.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria2\geometria2\bin\Debug\net8.0\geometria2.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria2\geometria2\bin\Debug\net8.0\geometria2.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\geometria2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\geometria2.AssemblyInfoInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\geometria2.AssemblyInfo.cs
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\geometria2.csproj.CoreCompileInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\geometria2.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\refint\geometria2.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\geometria2.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\geometria2.genruntimeconfig.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\ref\geometria2.dll

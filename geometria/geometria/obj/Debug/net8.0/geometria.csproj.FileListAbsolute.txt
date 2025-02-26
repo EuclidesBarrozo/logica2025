@@ -1,0 +1,14 @@
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria\geometria\bin\Debug\net8.0\geometria.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria\geometria\bin\Debug\net8.0\geometria.deps.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria\geometria\bin\Debug\net8.0\geometria.runtimeconfig.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria\geometria\bin\Debug\net8.0\geometria.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria\geometria\bin\Debug\net8.0\geometria.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria\geometria\obj\Debug\net8.0\geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria\geometria\obj\Debug\net8.0\geometria.AssemblyInfoInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria\geometria\obj\Debug\net8.0\geometria.AssemblyInfo.cs
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria\geometria\obj\Debug\net8.0\geometria.csproj.CoreCompileInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria\geometria\obj\Debug\net8.0\geometria.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria\geometria\obj\Debug\net8.0\refint\geometria.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria\geometria\obj\Debug\net8.0\geometria.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria\geometria\obj\Debug\net8.0\geometria.genruntimeconfig.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\geometria\geometria\obj\Debug\net8.0\ref\geometria.dll

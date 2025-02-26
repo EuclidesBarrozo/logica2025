@@ -1,0 +1,14 @@
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\variavel\variavel\bin\Debug\net8.0\variavel.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\variavel\variavel\bin\Debug\net8.0\variavel.deps.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\variavel\variavel\bin\Debug\net8.0\variavel.runtimeconfig.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\variavel\variavel\bin\Debug\net8.0\variavel.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\variavel\variavel\bin\Debug\net8.0\variavel.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\variavel\variavel\obj\Debug\net8.0\variavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\variavel\variavel\obj\Debug\net8.0\variavel.AssemblyInfoInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\variavel\variavel\obj\Debug\net8.0\variavel.AssemblyInfo.cs
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\variavel\variavel\obj\Debug\net8.0\variavel.csproj.CoreCompileInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\variavel\variavel\obj\Debug\net8.0\variavel.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\variavel\variavel\obj\Debug\net8.0\refint\variavel.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\variavel\variavel\obj\Debug\net8.0\variavel.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\variavel\variavel\obj\Debug\net8.0\variavel.genruntimeconfig.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\variavel\variavel\obj\Debug\net8.0\ref\variavel.dll
