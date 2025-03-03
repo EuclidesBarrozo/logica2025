@@ -1,0 +1,15 @@
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\PA\PA\bin\Debug\net8.0\PA.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\PA\PA\bin\Debug\net8.0\PA.deps.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\PA\PA\bin\Debug\net8.0\PA.runtimeconfig.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\PA\PA\bin\Debug\net8.0\PA.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\PA\PA\bin\Debug\net8.0\PA.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\PA\PA\obj\Debug\net8.0\PA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\PA\PA\obj\Debug\net8.0\PA.AssemblyInfoInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\PA\PA\obj\Debug\net8.0\PA.AssemblyInfo.cs
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\PA\PA\obj\Debug\net8.0\PA.csproj.CoreCompileInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\PA\PA\obj\Debug\net8.0\PA.sourcelink.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\PA\PA\obj\Debug\net8.0\PA.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\PA\PA\obj\Debug\net8.0\refint\PA.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\PA\PA\obj\Debug\net8.0\PA.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\PA\PA\obj\Debug\net8.0\PA.genruntimeconfig.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\PA\PA\obj\Debug\net8.0\ref\PA.dll

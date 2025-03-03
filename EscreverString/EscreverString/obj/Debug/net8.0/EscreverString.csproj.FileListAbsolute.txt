@@ -1,0 +1,15 @@
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\EscreverString\EscreverString\bin\Debug\net8.0\EscreverString.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\EscreverString\EscreverString\bin\Debug\net8.0\EscreverString.deps.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\EscreverString\EscreverString\bin\Debug\net8.0\EscreverString.runtimeconfig.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\EscreverString\EscreverString\bin\Debug\net8.0\EscreverString.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\EscreverString\EscreverString\bin\Debug\net8.0\EscreverString.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\EscreverString\EscreverString\obj\Debug\net8.0\EscreverString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\EscreverString\EscreverString\obj\Debug\net8.0\EscreverString.AssemblyInfoInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\EscreverString\EscreverString\obj\Debug\net8.0\EscreverString.AssemblyInfo.cs
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\EscreverString\EscreverString\obj\Debug\net8.0\EscreverString.csproj.CoreCompileInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\EscreverString\EscreverString\obj\Debug\net8.0\EscreverString.sourcelink.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\EscreverString\EscreverString\obj\Debug\net8.0\EscreverString.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\EscreverString\EscreverString\obj\Debug\net8.0\refint\EscreverString.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\EscreverString\EscreverString\obj\Debug\net8.0\EscreverString.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\EscreverString\EscreverString\obj\Debug\net8.0\EscreverString.genruntimeconfig.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\EscreverString\EscreverString\obj\Debug\net8.0\ref\EscreverString.dll

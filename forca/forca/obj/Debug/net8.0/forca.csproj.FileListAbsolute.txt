@@ -1,0 +1,15 @@
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\forca\forca\bin\Debug\net8.0\forca.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\forca\forca\bin\Debug\net8.0\forca.deps.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\forca\forca\bin\Debug\net8.0\forca.runtimeconfig.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\forca\forca\bin\Debug\net8.0\forca.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\forca\forca\bin\Debug\net8.0\forca.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\forca\forca\obj\Debug\net8.0\forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\forca\forca\obj\Debug\net8.0\forca.AssemblyInfoInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\forca\forca\obj\Debug\net8.0\forca.AssemblyInfo.cs
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\forca\forca\obj\Debug\net8.0\forca.csproj.CoreCompileInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\forca\forca\obj\Debug\net8.0\forca.sourcelink.json
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\forca\forca\obj\Debug\net8.0\forca.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\forca\forca\obj\Debug\net8.0\refint\forca.dll
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\forca\forca\obj\Debug\net8.0\forca.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\forca\forca\obj\Debug\net8.0\forca.genruntimeconfig.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\Logica_de_programacao\turma2025\logica2025\forca\forca\obj\Debug\net8.0\ref\forca.dll
